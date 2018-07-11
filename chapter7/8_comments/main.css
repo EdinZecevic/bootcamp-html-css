@@ -1,0 +1,6 @@
+/*this is an image editing in css*/
+img {
+    border: red  ;
+    width: 100px;
+    height: 100px;
+}
