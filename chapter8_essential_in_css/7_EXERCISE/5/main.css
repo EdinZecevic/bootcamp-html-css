@@ -1,0 +1,9 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-image: url("/chapter8_essential_in_css/1_border_property/img/123.jpg");
+    border: groove 20px;
+    border-radius: 25%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

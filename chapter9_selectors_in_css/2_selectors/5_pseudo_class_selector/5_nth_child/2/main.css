@@ -1,0 +1,10 @@
+table,tr,td{
+    width: 100%;
+    border: 1px solid black;
+}
+tr:nth-child(even){
+     background-color: rgba(128,128,128,0.19);
+ }
+tr:nth-child(odd){
+    background-color: rgba(28,28,28,0.19);
+}

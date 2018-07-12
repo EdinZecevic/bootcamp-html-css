@@ -1,0 +1,21 @@
+body{
+     font-size: 36px;
+     text-align: center;
+ }
+h1{
+    color: rebeccapurple;
+}
+.emphasize{
+    color: red;
+}
+#promote{
+    color: orange;
+}
+[contenteditable]{
+    color: red;
+    border: 1px dashed black;
+}
+[href]{
+    border: red 1px;
+    color: red;
+}

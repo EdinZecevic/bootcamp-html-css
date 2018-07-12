@@ -1,0 +1,31 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    display: inline-block;
+    background-image: url("../1_border_property/img/123.jpg");
+}
+
+img{
+    width: 200px;
+    height: 100px;
+    border: 10px groove orangered;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.dogone{
+    width: 100px;
+    height: 100px;
+    border: 10px groove orangered;
+}
+.dogtwo{
+    width: 100px;
+    height: 100px;
+    border: 10px  orangered;
+}
+.dogthree{
+    width: 100px;
+    height: 100px;
+    border: 20px darkorange;
+}

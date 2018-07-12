@@ -1,0 +1,17 @@
+div{
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    border-radius: 100% ;
+    background-image: url("/chapter8_essential_in_CSS/1_border_property/img/123.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat ;
+}
+
+.dogone{
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    border-radius: 100% ;
+
+}
