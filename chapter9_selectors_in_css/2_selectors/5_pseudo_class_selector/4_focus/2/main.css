@@ -1,6 +1,19 @@
-a{
-    font-size: 200px;
+label{
+    font-size: 40px;
+    display: block;
 }
-a:focus{
+input{
+    width: 500px;
+    height: 40px;
+    font-size: 40px;
+    display: block;
+}
+input:focus{
     color: red;
+}
+#ramke{
+    width: 500px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
 }
