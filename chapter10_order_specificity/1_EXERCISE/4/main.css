@@ -1,0 +1,8 @@
+p{
+    color: #0000FF;
+}
+[contenteditable]{
+    color: red;
+}
+/*the [contenteditable] is the atribute selector and have the privilegy than the element*/
+/*the value of the element is 1 and value for the atribute is 10*/

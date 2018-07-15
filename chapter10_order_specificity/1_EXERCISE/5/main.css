@@ -1,0 +1,10 @@
+
+.zecevic{
+    color: #0000FF;
+}
+[contenteditable]{
+    color: red;
+}
+/*this selectors are in the same level and the usage of the edit wil be used
+which is the last, for example that the class .zecevic is written the last
+that code will be used*/
