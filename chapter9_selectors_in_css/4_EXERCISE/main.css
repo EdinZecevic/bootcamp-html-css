@@ -1,0 +1,26 @@
+html{
+    background-color: #0000FF;
+}
+body{
+    width: 60%;
+    background-color: green;
+    border: 50px black;
+    margin: 0 auto;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border: groove orange;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+}
+#hamid{
+    color: #0000FF;
+}
+#edin{
+    color: red;
+}
+p{
+    color: black;
+}
