@@ -1,0 +1,7 @@
+h1{
+    font-family: 'Kirang Haerang';
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 3px;
+    text-shadow: -5px 0 0.1px red;
+}
