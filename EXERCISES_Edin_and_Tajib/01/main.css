@@ -1,0 +1,49 @@
+html,body,header,a,img,ol,div,p{
+    font-size: 1rem;
+    background: white;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 50px;
+    color: red;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    border: 1px dashed orangered;
+    border-radius: 100%;
+}
+.sinan{
+    color: green ;
+    font-size: 2rem;
+    background-color: #16A2D7;
+    border: solid 2px rebeccapurple;
+}
+
+#saban{
+    color: #16A2D7;
+
+}
+
+[contenteditable]{
+    background-color: #16A2D7;
+    border: 45px  solid orangered;
+    margin: auto;
+}
+
+div{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border: 3px solid black;
+
+}
+
+div:hover{
+    background-color: #16A2D7;
+}
+

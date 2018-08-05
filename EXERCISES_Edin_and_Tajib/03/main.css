@@ -1,0 +1,21 @@
+body{
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+
+}
+div{
+    border: 1px solid red;
+
+    box-sizing: border-box;
+}
+#ipce{
+    width: 25%;
+    vertical-align: top;
+    display: inline-block;
+
+}
+#jasar{
+    width: 75%;
+    display: inline-block;
+}

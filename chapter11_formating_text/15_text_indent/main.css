@@ -1,4 +1,14 @@
+
 p{
-    color:  lawngreen;
-    text-decoration: line-through underline overline;
+     margin: 0 auto;
+     max-width: 550px;
+     text-indent: 1rem;
+ }
+p::first-letter{
+    font-family: cursive;
+    font-size: 2rem;
+    color: red;
+}
+p::first-line{
+    color: red;
 }

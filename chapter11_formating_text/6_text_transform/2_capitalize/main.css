@@ -4,6 +4,7 @@ p{
     font-weight: bold;
     line-height: 1;
     font-style: italic;
+    /*all first letter is uppercase*/
     text-transform: capitalize;
 ;
 }

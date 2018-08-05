@@ -1,4 +1,11 @@
 a{
     font-family: 'Kirang Haerang';
-    text-decoration: line-through;
+}
+p::first-letter{
+    font-size: 6rem;
+    color: red;
+}
+p::first-line{
+    font-size: 4rem;
+    color: black;
 }

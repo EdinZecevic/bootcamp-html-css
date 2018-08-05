@@ -1,0 +1,11 @@
+nav{
+     border: 2px red solid;
+     display: inline-block;
+     width: 25%;
+ }
+main{
+    vertical-align: top;
+    border: 2px red solid;
+    display: inline-block;
+    width: 74%;
+}

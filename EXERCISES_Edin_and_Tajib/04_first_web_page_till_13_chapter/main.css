@@ -1,0 +1,105 @@
+html, body, header, img, ul, li, main,aside, footer{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: darkgrey;
+}
+
+
+div{
+    display: inline-block;
+
+}
+
+#one{
+    text-align: left;
+    width: 50vw;
+
+}
+#two{
+    text-align: right;
+    align-content: right;
+    width: 49vw;
+}
+
+#five{
+    width: 5vw;
+     display: inline-block;
+    vertical-align: bottom;
+
+}
+a{
+    text-decoration: none;
+    font-size: 1.6vw;
+    padding: 1rem;
+}
+ul{
+    align-content: left;
+    display: inline-block;
+    vertical-align: bottom;
+    border-radius: 20px 20px 20px 20px;
+    padding: 9px;
+
+}
+li{
+    display: inline-block;
+    text-align: center;
+}
+#four{
+    width: 100%;
+    height: 20vh;
+}
+#six{
+    width: 5vh%;
+    height: 5vh;
+}
+h1{
+    display: inline-block;
+    padding: 10px;
+}
+article{
+    display: inline-block;
+    width: 73.5vw;
+    padding-left: 1vw;
+}
+aside{
+    display: inline-block;
+    width: 24vw;
+    vertical-align: top;
+    text-align: center;
+    background-color: #6f42c1;
+}
+#eight{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+section{
+    display: inline-block;
+}
+#f1{
+
+}
+#f2{
+
+}
+#f3{
+}
+.div{
+    vertical-align: top;
+    width: 32vw;
+    border: 1px solid black;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    display: inline-block;
+}
+.one{
+    width: 10vw;
+}
+#h1{
+    width: 100%;
+}
+.hamdija{
+
+}
