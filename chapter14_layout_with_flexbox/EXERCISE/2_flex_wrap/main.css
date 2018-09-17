@@ -1,0 +1,9 @@
+div{
+    flex-wrap: wrap;
+    display: inline-flex;
+    /*display: flex;*/
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin: 1px ;
+}
