@@ -1,0 +1,19 @@
+div{
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 2px solid red;
+    background-color: yellow;
+}
+body{
+    flex-wrap: wrap;
+    display: flex;
+    height: 2000px;
+    justify-content: flex-end;
+    align-items: flex-start;
+
+
+}
+#huso{
+    align-self: flex-end;
+}
