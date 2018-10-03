@@ -1,0 +1,7 @@
+ul{
+    justify-content: flex-end;
+    flex-flow: row nowrap;
+}
+a{
+    padding: 1em;
+}
