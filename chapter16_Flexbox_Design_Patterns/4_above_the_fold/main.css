@@ -1,0 +1,22 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("http://www.see-florida.com/wp-content/uploads/2015/08/floridakeys.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 5px solid royalblue;
+}
+p{
+    font-size: 5rem;
+}
+div{
+    flex-wrap: wrap;
+}
