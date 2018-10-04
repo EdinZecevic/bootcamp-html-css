@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+}
+nav{
+    width: 200px;
+}
+main{
+    width: 600px;
+}

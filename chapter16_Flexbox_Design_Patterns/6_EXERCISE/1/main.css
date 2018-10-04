@@ -1,15 +1,23 @@
-body, ul,li,a{
-    margin: 0;
+html, body{
     padding: 0;
+    margin: 0;
     border: 0;
-
+    box-sizing: border-box;
 }
 
-ul{
+body {
+
+    background-image: url("https://www.croatia-times.com/wp-content/uploads/2014/06/Fisherman-Kastel-Novi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
-    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid red;
+    height: 100vh;
 
 }
-a{
-    display: block;
+p{
+    font-size: 5rem;
+    color: white;
 }
