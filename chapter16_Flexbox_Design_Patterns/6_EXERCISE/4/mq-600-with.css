@@ -1,0 +1,16 @@
+body,div{
+    display: flex;
+    flex-flow: row wrap;
+}
+header{
+    width: 100%;
+}
+aside{
+    width: 50%;
+}
+footer{
+    width: 100%;
+}
+#1{
+    order:1;
+}
