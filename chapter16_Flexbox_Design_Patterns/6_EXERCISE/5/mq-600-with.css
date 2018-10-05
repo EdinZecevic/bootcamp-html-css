@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    flex-flow: row;
+}
+nav, aside{
+    width: 20%;
+}
+article{
+    width: 60%;
+}

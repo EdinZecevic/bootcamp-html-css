@@ -1,0 +1,10 @@
+header,nav, article,aside,footer{
+    border: 1px solid black;
+    background-color: #16A2D7;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding: 20px;
+}
